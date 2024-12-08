@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/KapiKane/Rust-parakoy/blob/main/Rustacian.png" alt="Logo" width="250" height="250">
+    <img src="https://github.com/KapiKane/Rust-parakoy/blob/main/Rustacian.png" alt="Logo" width="940" height="480">
 
 Rust Guide from a dummy ^(^_^)^
   
