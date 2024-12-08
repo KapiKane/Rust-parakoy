@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://us.startpage.com/sp/sxpra?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FRust_programming_language_black_logo.svg%2F300px-Rust_programming_language_black_logo.svg.png" alt="Logo" width="250" height="250">
+    <img src="https://github.com/KapiKane/Rust-parakoy/blob/main/Rustacian.png" alt="Logo" width="250" height="250">
 
 Rust Guide from a dummy ^(^_^)^
   
